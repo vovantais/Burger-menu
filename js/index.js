@@ -8,3 +8,4 @@ const handleClickBurger = () => {
   }
   
   document.addEventListener('click', handleClickBurger);
+  console.log('test');
